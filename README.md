@@ -1,4 +1,4 @@
-
+## find the live link here - https://likhithpalya.github.io/basics_sqlNotes-personal/
 
 ### Basic SQL Queries:
 
